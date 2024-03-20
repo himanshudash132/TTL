@@ -1,1 +1,0 @@
-data analytic tool name  , use , evaluation matrix , advantage,  limitation, application
